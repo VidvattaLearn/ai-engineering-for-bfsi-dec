@@ -1,0 +1,5 @@
+.env
+node_modules
+audio_outputs
+.next
+__pycache__
